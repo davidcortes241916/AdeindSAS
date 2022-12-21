@@ -123,6 +123,11 @@ h6 {
   padding: 10px 25px;
 }
 
+.logoAdeind{
+  width: 200px;
+  height: 150px;
+}
+
 .dropdown-menu .dropdown-footer a {
   color: #444444;
   text-decoration: underline;
